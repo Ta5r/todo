@@ -1,0 +1,9 @@
+
+
+
+*after completing html - css*
+
+JAVASCRIPT : 
+
+3:12 AM 9/19/2020		made content indent by grouping selectors functions and eventListeners
+3:13 AM 9/19/2020	ctrl+alt+down ==> copies line down
